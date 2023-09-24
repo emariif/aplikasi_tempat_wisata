@@ -1,4 +1,4 @@
-# aplikasi_tempat_wisata
+# Aplikasi Tempat Wisata
 
 A new Flutter project.
 
